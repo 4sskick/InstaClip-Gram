@@ -1,4 +1,3 @@
-# saveInstagram
 # README #
 
 This is simple application to download and repost (images & videos)
