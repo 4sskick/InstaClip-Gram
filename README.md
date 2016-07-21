@@ -14,6 +14,10 @@ This is simple application to download and repost (images & videos)
 * card view
 * recycler-view
 
+### Update 21/07/2016 ###
+* Fixing Repost Button
+* Demo APK see in repository
+
 ### Update 17/07/2016 ###
 
 * Add feature repost for image & video
@@ -22,10 +26,9 @@ This is simple application to download and repost (images & videos)
 
 ### Next (?) ###
 
-* Check SaveInstagramUtil.isTherePhoto for else condition
 * Welcome Screen (Guide for User)
-* Splash Screen
+* Stream Video items using Exo player
 
 ### Who do I talk to? ###
 
-* Repo owner or admin (developado@gmail.com)
+* Repo owner or admin (developadi@gmail.com)
