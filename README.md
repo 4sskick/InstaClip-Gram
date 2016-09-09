@@ -13,6 +13,10 @@ This is simple application to download and repost (images & videos)
 * okhttp3 (logging-interceptor 3.2.0)
 * card view
 * recycler-view
+* crashlytics 2.6
+
+### Update 09/09/2016 ###
+* Fixing bugs
 
 ### Update 21/07/2016 ###
 * Fixing Repost Button
