@@ -2,7 +2,16 @@
 
 This is simple application to download and repost (images & videos)
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/95322148@N05/28264524472/in/dateposted-public/" title="saveInstagram"><img src="https://c1.staticflickr.com/9/8636/28264524472_133b5ef264_z.jpg" width="325" height="583" alt="saveInstagram"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/95322148@N05/32812697597/in/dateposted-public/" title="Screenshot_1556790741"><img src="https://live.staticflickr.com/65535/32812697597_d0cb9cfdf9_c.jpg" width="450" height="800" alt="Screenshot_1556790741"></a>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/95322148@N05/46966887114/in/dateposted-public/" title="Screenshot_1556790747"><img src="https://live.staticflickr.com/65535/46966887114_ddf9b28e0f_c.jpg" width="450" height="800" alt="Screenshot_1556790747"></a>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/95322148@N05/46839689325/in/dateposted-public/" title="Screenshot_1556790743"><img src="https://live.staticflickr.com/65535/46839689325_29d695a380_c.jpg" width="450" height="800" alt="Screenshot_1556790743"></a>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/95322148@N05/32812697367/in/dateposted-public/" title="Screenshot_1556792857"><img src="https://live.staticflickr.com/65535/32812697367_86ec38f6ff_c.jpg" width="450" height="800" alt="Screenshot_1556792857"></a>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/95322148@N05/46966886954/in/dateposted-public/" title="Screenshot_1556792878"><img src="https://live.staticflickr.com/65535/46966886954_0b7b5835c2_c.jpg" width="450" height="800" alt="Screenshot_1556792878"></a>
+
 
 ### Library Used ###
 * exo player
@@ -11,9 +20,18 @@ This is simple application to download and repost (images & videos)
 * retrofit 2.0
 * GSON-converter (retrofit 2.0)
 * okhttp3 (logging-interceptor 3.2.0)
-* card view
-* recycler-view
-* crashlytics 2.6
+* crashlytics
+* lottie
+* stetho
+
+## Update 02/05/2019
+* Splash Screen & finalize
+
+## Update 29/04/2019 ###
+* Done refactoring & assets
+
+## Update 07/04/2019 ###
+* Progress for refactoring with some fresh tech libs update
 
 ### Update 09/09/2016 ###
 * Fixing bugs
@@ -31,7 +49,10 @@ This is simple application to download and repost (images & videos)
 ### Next (?) ###
 
 * Welcome Screen (Guide for User)
-* Stream Video items using Exo player
+* ~~Stream Video items using Exo player~~
+* re-upload feature with caption along (for feed only, if story could could be as consider)
+* support for multiple images on one feed
+* backend support `(support for multiple items on one post (multi image / video / mixed))`
 
 ### Who do I talk to? ###
 
